@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL',          'http://localhost/duanmau/code/lab4-ph62087/'); // Thêm đường dẫn tới thư mục dự án
+define('BASE_URL',          'http://localhost/duanmau/code/lab-ph62087/'); // Thêm đường dẫn tới thư mục dự án
 
 define('PATH_ROOT',         __DIR__ . '/../');
 
