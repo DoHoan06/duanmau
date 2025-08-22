@@ -9,10 +9,7 @@
         <div class="col-10">
             <div class="card shadow-sm p-4">
                 <div class="d-flex justify-content-between align-items-center mb-3">
-                    <h4 class="mb-0 fw-bold">Quản lý sản phẩm</h4>
-                    <a href="<?= BASE_URL ?>?action=admin-create-product" class="btn btn-primary btn-sm">
-                        ➕ Thêm sản phẩm
-                    </a>
+                    <h4 class="mb-0 fw-bold">Quản lý bình luận</h4>
                 </div>
 
                 <table class="table table-bordered table-hover align-middle">

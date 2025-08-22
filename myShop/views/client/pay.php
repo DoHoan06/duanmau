@@ -63,6 +63,10 @@
                         <?php endforeach; ?>
                     </tbody>
                 </table>
+                <div class="d-flex justify-content-between mt-3">
+                    <h5>Tổng cộng:</h5>
+                    <h5 class="text-danger"><?= number_format($tongTien) ?> đ</h5>
+                </div>
             </div>
         </div>
     </div>
