@@ -24,7 +24,7 @@
         <textarea name="address" id="Address" class="form-control"></textarea>
     </div>
     <div class="flex">
-        <span>Đã có tài khoản</span>
+        <span>Đã có tài khoản?</span>
         <a href="<?= BASE_URL ?>?action=login">Đăng nhập</a>
     </div>
     <br>
